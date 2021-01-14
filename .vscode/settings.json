@@ -1,4 +1,4 @@
-﻿{
+{
     "files.exclude":
     {
         "**/.DS_Store":true,
@@ -52,5 +52,21 @@
         "ProjectSettings/":true,
         "temp/":true,
         "Temp/":true
-    }
+    },
+    "cSpell.words": [
+        "destroy",
+        "dont",
+        "hola",
+        "initialise",
+        "iphone",
+        "list",
+        "load",
+        "mesh",
+        "mundo",
+        "on",
+        "pro",
+        "text",
+        "ugui",
+        "unity"
+    ]
 }
